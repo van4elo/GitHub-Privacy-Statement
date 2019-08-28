@@ -63,7 +63,6 @@ body {
 }
 .footer {
     position: relative;
-    bottom: 0;
     background-color: #f5f5f5;
     border-top: 1px solid #dddddd;
     padding: 30px 0px 80px 0;
